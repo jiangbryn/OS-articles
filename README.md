@@ -6,3 +6,4 @@
 4. [进程](https://www.cnblogs.com/alantu2018/p/8526544.html)与[线程](https://www.cnblogs.com/alantu2018/p/8446857.html)
 5. [进程间通信总结](https://www.cnblogs.com/alantu2018/p/8991331.html)
 6. [信号量的理解](https://github.com/Wangzhike/HIT-Linux-0.11/blob/master/5-semaphore/5-semaphore.md)
+7. [互斥锁、条件锁、读写锁、自旋锁](https://www.zhihu.com/question/66733477)
